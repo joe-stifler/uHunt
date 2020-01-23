@@ -1,3 +1,2 @@
 # uHunt
-Implementações ingênuas dos problemas do site uHunt. Para acompanhar 
-minhas estatísticas: http://uhunt.onlinejudge.org/id/832480
+Naive solutions for the problems of uHunt site. To follow my statistics: http://uhunt.onlinejudge.org/id/832480
