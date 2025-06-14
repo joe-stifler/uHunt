@@ -1,4 +1,4 @@
 # uHunt
-Solutions to some competitive programming problems from [uHunt site](https://uhunt.onlinejudge.org/). To follow my statistics: http://uhunt.onlinejudge.org/id/832480
+Soluções para alguns problemas de programação competitiva do site [uHunt site](https://uhunt.onlinejudge.org/). Para acompanhar minhas estatísticas: http://uhunt.onlinejudge.org/id/832480
 
 <img src="statistics_of_my_profile.png">
